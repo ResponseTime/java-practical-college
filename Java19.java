@@ -1,5 +1,3 @@
-import javax.swing.border.SoftBevelBorder;
-
 class balanceError extends Exception {
     balanceError(String message) {
         super(message);
